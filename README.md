@@ -1,4 +1,5 @@
 # PDFTool
+`java -jar PDFTool-1.0.jar`
 ```
 Usage: PDFTool [OPTION] [-i INPUT_FILE... -o OUTPUT_FILE]
 
